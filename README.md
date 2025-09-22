@@ -16,7 +16,7 @@ Este proyecto es una aplicación **Java** que implementa un editor de texto con 
 ## Tecnologías usadas
 - Lenguaje: **Java**
 - Librería: **java.util.Stack**
-- IDE recomendado: **IntelliJ IDEA** o **Eclipse**
+- IDE recomendado: **IntelliJ IDEA**
 
 ---
 
